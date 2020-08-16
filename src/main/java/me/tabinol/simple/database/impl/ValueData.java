@@ -1,7 +1,7 @@
 package me.tabinol.simple.database.impl;
 
 /**
- * Represents a value (String) with a a value ID.
+ * Represents a value (String) with a value ID.
  */
 final class ValueData {
 
