@@ -69,7 +69,7 @@ public interface SimpleDatabase {
     void delete(String key, String transactionId) throws SimpleDatabaseException;
 
     /**
-     * Starts a transaction with the specified ID. The ID must not be an activetransaction ID.
+     * Starts a transaction with the specified ID. The ID must not be an active transaction ID.
      *
      * @param transactionId the transaction id
      * @throws SimpleDatabaseException the exception on failure
